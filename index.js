@@ -64,3 +64,4 @@ class QuizBee extends Component {
     }
 }
 ReactDOM.render(<QuizBee />, document.getElementById("root"));
+//It is a tested version
