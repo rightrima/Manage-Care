@@ -6,6 +6,7 @@ const Result = ({score, playAgain}) => (
     <button className="playBtn" onClick={playAgain}>
       Play again!
     </button>
+    <h1>welcome to India</h1>
   </div>
 );
 
